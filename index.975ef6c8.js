@@ -532,7 +532,7 @@ function hmrAcceptRun(bundle, id) {
 }
 
 },{}],"8lqZg":[function(require,module,exports) {
-console.log(332423);
+console.log(534534);
 
 },{}]},["ShInH","8lqZg"], "8lqZg", "parcelRequire6d61")
 
